@@ -10,4 +10,32 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 
+#Ruby on Rails 
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.rvmrc
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+.project
+config/initializers/secret_token.rb
+
+
+#sublime text 
+# SublimeText project files
+*.sublime-workspace
+
+
+
 #question: woult log/archive/access.log be ignored? NO
